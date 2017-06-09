@@ -1,0 +1,22 @@
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.jumbotron {
+    padding: 9rem 2rem;
+    background-color: #ebcccc;
+}
+
+.btn {
+    padding: 10px 20px;
+}
+
+.btn-black {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.main-content {
+    height: 1000px;
+}
